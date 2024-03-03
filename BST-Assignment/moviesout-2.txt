@@ -1,0 +1,37 @@
+
+
+Printing BST in order:
+tt0000015 Around a Bathing Hut US
+tt0000036 Awakening of Rip US
+tt0000005 Blacksmith Scene US
+tt0000016 Boat Leaving the Port US
+tt0000001 Carmencita US
+tt0000006 Chinese Opium Den US
+tt0000008 Edison Kinetoscopic Record of a Sneeze, January 7, 1894 US
+tt0000010 Employees Leaving the Lumi俊e Factory US
+tt0000010 Exiting the Factory US
+tt0000028 Fishing for Goldfish US
+tt0000033 Horse Trick Riders US
+tt0000007 Jim Corbett vs. Peter Courtney US
+tt0000010 Leaving the Factory US
+tt0000009 Miss Jerry US
+tt0000037 Sea Bathing US
+tt0000014 Tables Turned on the Gardener US
+tt0000002 The Clown and His Dogs US
+tt0000033 Trick Riding US
+tt0000035 Watering the Flowers US
+tt0000010 Workers Leaving the Lumi俊e Factory US
+
+
+The number of elements in BST is: 20
+Searching for the following movies:
+Movie "Fishing for Goldfish" was found.
+Left child is NULL
+Mmovie at the right is: Horse Trick Riders
+Movie "Miss Jerry" was found.
+Movie at the left is: Leaving the Factory
+Movie at the right is: Tables Turned on the Gardener
+Movie "Horse Trick Riders" was found.
+Left child is NULL
+Right child is NULL
+Movie "Scared of Guns" was not found.
